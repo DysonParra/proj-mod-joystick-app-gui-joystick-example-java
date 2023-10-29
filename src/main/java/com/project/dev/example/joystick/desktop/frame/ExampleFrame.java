@@ -39,7 +39,7 @@ import javax.swing.JOptionPane;
  * TODO: Definición de {@code ExampleFrame}.
  *
  * @author Dyson Parra
- * @since 1.8
+ * @since 11
  */
 public class ExampleFrame extends JFrame {
 
