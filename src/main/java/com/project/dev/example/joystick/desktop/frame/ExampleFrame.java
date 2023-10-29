@@ -36,7 +36,7 @@ import javax.swing.JLabel;
 import javax.swing.JOptionPane;
 
 /**
- * TODO: Definición de {@code ExampleFrame}.
+ * TODO: Description of {@code ExampleFrame}.
  *
  * @author Dyson Parra
  * @since 11
@@ -59,7 +59,7 @@ public class ExampleFrame extends JFrame {
     private final int playerMoveQuantity = 6;                                   // Cantidad de veces que cabe el jugador a lo alto de la ventana.
 
     /**
-     * TODO: Definición de {@code getJoystickType}.
+     * TODO: Description of {@code getJoystickType}.
      *
      * @return
      */
@@ -68,7 +68,7 @@ public class ExampleFrame extends JFrame {
     }
 
     /**
-     * TODO: Definición de {@code setJoystickType}.
+     * TODO: Description of {@code setJoystickType}.
      *
      * @param joystickType
      */
@@ -77,7 +77,7 @@ public class ExampleFrame extends JFrame {
     }
 
     /**
-     * TODO: Definición de {@code getJoystickName}.
+     * TODO: Description of {@code getJoystickName}.
      *
      * @return
      */
@@ -86,7 +86,7 @@ public class ExampleFrame extends JFrame {
     }
 
     /**
-     * TODO: Definición de {@code setJoystickName}.
+     * TODO: Description of {@code setJoystickName}.
      *
      * @param joystickName
      */
@@ -95,7 +95,7 @@ public class ExampleFrame extends JFrame {
     }
 
     /**
-     * TODO: Definición de {@code ExampleFrame}.
+     * TODO: Description of {@code ExampleFrame}.
      *
      */
     public ExampleFrame() {
@@ -133,7 +133,7 @@ public class ExampleFrame extends JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     /**
-     * FIXME: Definición de {@code startFrame}. Inicializa el frame con la información obtenida del
+     * FIXME: Description of {@code startFrame}. Inicializa el frame con la información obtenida del
      * frame anterior.
      */
     public void startFrame() {

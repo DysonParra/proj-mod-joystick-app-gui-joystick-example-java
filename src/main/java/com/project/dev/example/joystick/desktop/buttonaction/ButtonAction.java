@@ -26,7 +26,7 @@ import static com.project.dev.joystick.GenericComponent.BUTTON_TYPED;
 import static com.project.dev.joystick.GenericComponent.BUTTON_UNPRESSED;
 
 /**
- * TODO: Definición de {@code ButtonAction}.
+ * TODO: Description of {@code ButtonAction}.
  *
  * @author Dyson Parra
  * @since 11
@@ -39,7 +39,7 @@ public class ButtonAction {
     private static int buttonDownImageNumber = -1;
 
     /**
-     * FIXME: Definición de {@code runButtonStartAction}. Ejecuta la acción para el botón start.
+     * FIXME: Description of {@code runButtonStartAction}. Ejecuta la acción para el botón start.
      *
      * @param actionSetter es el asignador de acciones para un joystick.
      * @param buttonState  es el estado del botón.
@@ -61,7 +61,7 @@ public class ButtonAction {
     }
 
     /**
-     * FIXME: Definición de {@code runButtonSelectAction}. Ejecuta la acción para el botón select.
+     * FIXME: Description of {@code runButtonSelectAction}. Ejecuta la acción para el botón select.
      *
      * @param actionSetter es el asignador de acciones para un joystick.
      * @param buttonState  es el estado del botón.
@@ -83,7 +83,7 @@ public class ButtonAction {
     }
 
     /**
-     * FIXME: Definición de {@code runButtonMoveLeftAction}. Ejecuta la acción para el botón flecha
+     * FIXME: Description of {@code runButtonMoveLeftAction}. Ejecuta la acción para el botón flecha
      * izquierda.
      *
      * @param actionSetter es el asignador de acciones para un joystick.
@@ -111,7 +111,7 @@ public class ButtonAction {
     }
 
     /**
-     * FIXME: Definición de {@code runButtonMoveRightAction}. Ejecuta la acción para el botón flecha
+     * FIXME: Description of {@code runButtonMoveRightAction}. Ejecuta la acción para el botón flecha
      * derecha.
      *
      * @param actionSetter es el asignador de acciones para un joystick.
@@ -139,7 +139,7 @@ public class ButtonAction {
     }
 
     /**
-     * FIXME: Definición de {@code runButtonMoveUpAction}. Ejecuta la acción para el botón flecha
+     * FIXME: Description of {@code runButtonMoveUpAction}. Ejecuta la acción para el botón flecha
      * arriba.
      *
      * @param actionSetter es el asignador de acciones para un joystick.
@@ -167,7 +167,7 @@ public class ButtonAction {
     }
 
     /**
-     * FIXME: Definición de {@code runButtonMoveDownAction}. Ejecuta la acción para el botón flecha
+     * FIXME: Description of {@code runButtonMoveDownAction}. Ejecuta la acción para el botón flecha
      * abajo.
      *
      * @param actionSetter es el asignador de acciones para un joystick.
@@ -195,7 +195,7 @@ public class ButtonAction {
     }
 
     /**
-     * FIXME: Definición de {@code runButtonMoveMediumAction}. Ejecuta la acción para el botón
+     * FIXME: Description of {@code runButtonMoveMediumAction}. Ejecuta la acción para el botón
      * flecha intermedia.
      *
      * @param actionSetter es el asignador de acciones para un joystick.
@@ -218,7 +218,7 @@ public class ButtonAction {
     }
 
     /**
-     * FIXME: Definición de {@code runButtonLeftAction}. Ejecuta la acción para el botón de arriba
+     * FIXME: Description of {@code runButtonLeftAction}. Ejecuta la acción para el botón de arriba
      * del lado contrario a los direccionales (X,Y,O,A, etc...).
      *
      * @param actionSetter es el asignador de acciones para un joystick.
@@ -243,7 +243,7 @@ public class ButtonAction {
     }
 
     /**
-     * FIXME: Definición de {@code runButtonRightAction}. Ejecuta la acción para el botón de arriba
+     * FIXME: Description of {@code runButtonRightAction}. Ejecuta la acción para el botón de arriba
      * del lado contrario a los direccionales (X,Y,O,A, etc...).
      *
      * @param actionSetter es el asignador de acciones para un joystick.
@@ -268,7 +268,7 @@ public class ButtonAction {
     }
 
     /**
-     * FIXME: Definición de {@code runButtonUpAction}. Ejecuta la acción para el botón de arriba del
+     * FIXME: Description of {@code runButtonUpAction}. Ejecuta la acción para el botón de arriba del
      * lado contrario a los direccionales (X,Y,O,A, etc...).
      *
      * @param actionSetter es el asignador de acciones para un joystick.
@@ -293,7 +293,7 @@ public class ButtonAction {
     }
 
     /**
-     * FIXME: Definición de {@code runButtonDownAction}. Ejecuta la acción para el botón de arriba
+     * FIXME: Description of {@code runButtonDownAction}. Ejecuta la acción para el botón de arriba
      * del lado contrario a los direccionales (X,Y,O,A, etc...).
      *
      * @param actionSetter es el asignador de acciones para un joystick.
